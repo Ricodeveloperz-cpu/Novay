@@ -2,8 +2,8 @@ import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 
 // Isi dua nilai ini dari Supabase > Project Settings > API.
 // Nilai anon/publishable aman digunakan di browser dengan RLS aktif.
-const SUPABASE_URL = "https://YOUR_PROJECT_ID.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY";
+const SUPABASE_URL = "https://ftrmasttbgieceypndjp.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_K3MwJ28D9r1-deilA-kVJg_ZNqqOnlu";
 const MODEL_LABEL = "Nova AI · OpenAI";
 
 const $ = (id) => document.getElementById(id);
